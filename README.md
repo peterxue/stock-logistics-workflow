@@ -1,7 +1,7 @@
 [![Build Status](https://travis-ci.org/OCA/stock-logistics-workflow.svg?branch=11.0)](https://travis-ci.org/OCA/stock-logistics-workflow)
 [![Coverage Status](https://img.shields.io/coveralls/OCA/stock-logistics-workflow.svg)](https://coveralls.io/r/OCA/stock-logistics-workflow?branch=11.0)
 
-Odoo Stock Logistic Workflow
+Odoo Stock Logistic Workflow [http://www.www888.org](http://www.www888.org)
 ===========================
 
 This project aims to deal with modules related to manage logistic flows. You'll find modules that:
